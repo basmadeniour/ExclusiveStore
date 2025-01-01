@@ -1,5 +1,5 @@
 {
-  "homepage": "https://basmadeniour.github.io/nnnnnn/",
+  "url": "https://github.com/basmadeniour/ExclusiveStore/issues",
   "name": "store",
   "version": "0.1.0",
   "private": true,
@@ -26,15 +26,14 @@
     "swiper": "^9.0.0",
     "web-vitals": "^2.1.4"
   },
- "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "start": "react-scripts --openssl-legacy-provider start",
-  "build": "react-scripts --openssl-legacy-provider build",
-  "test": "react-scripts test",
-  "eject": "react-scripts eject"
-},
-
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -61,13 +60,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basmadeniour/nnnnnn.git"
+     "url": "git+https://github.com/basmadeniour/ExclusiveStore.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/basmadeniour/nnnnnn/issues"
+     "url": "https://github.com/basmadeniour/ExclusiveStore/issues"
   }
 }
